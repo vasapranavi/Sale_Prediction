@@ -1,4 +1,4 @@
-# Sale_Prediction
+# Sale Prediction
 For given data, this solution effectively predicts the Sales probability.
 
 # Required libraries to run the jupyter notebook
